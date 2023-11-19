@@ -1,0 +1,50 @@
+body{
+  background-color: #FAF6F0;
+
+}
+.container{
+  background-color: #FAF6F0;
+}
+.perfume{
+  letter-spacing: 6px;
+  color: grey;
+  padding-bottom: 5px;
+}
+.image-div{
+  height:60%;
+  padding-top: 20%;
+  padding-left: 41.5%
+}
+.component{
+  margin-top: 9.5%;
+  padding-bottom: 5.8%;
+  background-color: white;
+  height:39%;
+  width:50%;
+  padding-right: 2%;
+}
+.cart-button{
+  background-color: #508D69;
+  color:white;
+  height:50px;
+  width: 40%;
+  border-radius: 5px;
+  border: none;
+  margin-top: 15px;
+}
+.inline {
+     display: inline;
+   }
+
+   .discounted-price {
+     font-size: 2.5em;
+     margin-right: 10px;
+    color: #508D69;
+    font-weight: 550;
+   }
+
+   .original-price {
+     text-decoration: line-through;
+     color: grey;
+     font-size: 1em;
+   }
